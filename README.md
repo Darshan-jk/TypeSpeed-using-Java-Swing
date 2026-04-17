@@ -58,8 +58,8 @@ This project helps users improve typing speed and accuracy with real-time feedba
 TypeSpeed.java   # Main application file
 ```
 ## 🖥️ Screenshots
-![TypeSpeed Screenshot](Screenshots/Screenshot1.PNG)
-![TypeSpeed Screenshot](Screenshots/Screenshot2.PNG)
+![TypeSpeed Screenshot](Screenshots/Screenshot1.png)
+![TypeSpeed Screenshot](Screenshots/Screenshot2.png)
 
 
 ---
